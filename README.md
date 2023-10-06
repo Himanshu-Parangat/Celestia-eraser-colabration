@@ -9,7 +9,7 @@ list of feature sets to be finalized (pending for discussion)
 
 
 
-# Genral listGeneral
+# Genral list
 - Log Compression, encryption, Indexing, and Caching (performance, security)
 - Scalable applications can read multiple large logs, Parallel Processing 
 - Custom Log Parsing Rules 
