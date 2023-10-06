@@ -20,7 +20,7 @@ list of feature sets to be finalized (pending for discussion)
 - Log Classification, Log Parsing, Color-Coded Logs, and marking based on the level of threats 
 - In-App Notifications, Customizable Alerts
 - Collaborative Features, multi-user, authentication, sync setting
----
+
 
 # nice to have
 - Log Cleanup from the system
@@ -28,6 +28,10 @@ list of feature sets to be finalized (pending for discussion)
 - User Behavior Analytics Identifying patterns in user actions within logs. (⚠️)
 - Visualization Tools (Charts, Graphs) Timeline View
 - Responsive Design
+
+
+- Log Enrichment: Adding contextual information to log entries for better analysis. (using ai ❌)
+- Natural Language Processing: Allowing users to query logs using natural language. (using ai ❌)
 
 
 
