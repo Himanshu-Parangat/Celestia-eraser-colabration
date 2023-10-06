@@ -3,12 +3,13 @@
 # FEATURES FINILASIATION
 list of feature sets to be finalized (pending for discussion)
 
----
+
 
 ❌ - rejected   🚧 - waiting   🕛 - takes time   ⚠️ - case problem   ✅ - finalize
 
 
 
+# Genral listGeneral
 - Log Compression, encryption, Indexing, and Caching (performance, security)
 - Scalable applications can read multiple large logs, Parallel Processing 
 - Custom Log Parsing Rules 
