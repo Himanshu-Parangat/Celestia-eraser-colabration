@@ -15,11 +15,31 @@
 # core features
 ---
 
-1. ssh connnction 
-2. copy logs 
-3. atiping and higlighting
-4. marking based on the level of therets 
-5. basic scaning report
+ ❌ - rejected
+
+ 🚧 - waiting
+
+🕛 - takes time
+
+⚠️ - case problum
+
+✅ - finalize
+
+
+
+
+
+- **Intuitive Dashboard Customization:** Drag-and-drop interface for users to easily arrange and customize their dashboards.(✅)
+
+- **User Behavior Analytics:** Identifying patterns in user actions within logs. (⚠️)
+
+- **Log Enrichment:** Adding contextual information to log entries for better analysis. (using ai ❌)
+
+
+1. copy logs 
+2. atiping and higlighting
+3. marking based on the level of therets 
+4. basic scaning report
 
 
 
@@ -98,9 +118,6 @@ They're looking for software that can centralize the analysis of system logs fro
 ---
 
 # more detailed 
-- **Log Enrichment:** Adding contextual information to log entries for better analysis.
-- **Dependency Mapping:** Understanding relationships between different components based on log data.
-- **User Behavior Analytics:** Identifying patterns in user actions within logs.
 - **Interactive Query Language:** Allowing users to write complex queries for detailed analysis.
 - **Integration with SIEM (Security Information and Event Management):** Strengthening security analysis capabilities.
 - **Customizable Reporting:** Building and scheduling custom reports for specific insights.
@@ -128,7 +145,7 @@ They're looking for software that can centralize the analysis of system logs fro
 # ui/ux focused feature
 
 
-- **Intuitive Dashboard Customization:** Drag-and-drop interface for users to easily arrange and customize their dashboards.
+- 
 - **Smart Log Parsing Suggestions:** Automatic suggestions for log parsing based on commonly used patterns, reducing manual configuration efforts.
 - **Interactive Visualizations:** User-friendly charts and graphs that allow for interactive exploration of log data.
 - **Real-time Updates:** Automatic refresh of log data and dashboards for real-time insights without manual intervention.
