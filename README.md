@@ -36,8 +36,9 @@ list of feature sets to be finalized (pending for discussion)
 # Resourses
 
 
-- [﻿https://github.com/topics/log-analyzer?l=python](https://github.com/topics/log-analyzer?l=python) 
+pending for review
 
+- [﻿https://github.com/topics/log-analyzer?l=python](https://github.com/topics/log-analyzer?l=python) 
 - [﻿https://github.com/kitabisa/teler#features](https://github.com/kitabisa/teler#features) 
 - [﻿https://github.com/variar/klogg](https://github.com/variar/klogg) 
 - [﻿https://github.com/igorkasyanchuk/log_analyzer](https://github.com/igorkasyanchuk/log_analyzer) 
@@ -66,6 +67,29 @@ list of feature sets to be finalized (pending for discussion)
 - [﻿https://github.com/Farzin-Negahbani/Namira-LogAnalyzer](https://github.com/Farzin-Negahbani/Namira-LogAnalyzer) 
 - [﻿https://github.com/EmreOvunc/Log-Analysis](https://github.com/EmreOvunc/Log-Analysis) 
 - [﻿https://github.com/BalloonPlanet/apache-scalp](https://github.com/BalloonPlanet/apache-scalp) 
+
+
+- [﻿https://github.com/aquasecurity/trivy](https://github.com/aquasecurity/trivy) 
+- [﻿https://github.com/projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) 
+- [﻿https://github.com/CISOfy/lynis](https://github.com/CISOfy/lynis) 
+- [﻿https://github.com/future-architect/vuls](https://github.com/future-architect/vuls) 
+- [﻿https://github.com/kubescape/kubescape](https://github.com/kubescape/kubescape) 
+- [﻿https://github.com/wazuh/wazuh](https://github.com/wazuh/wazuh) 
+- [﻿https://github.com/projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) 
+- [﻿https://github.com/jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) 
+- [﻿https://github.com/deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) 
+- [﻿https://github.com/hktalent/scan4all](https://github.com/hktalent/scan4all) 
+- [﻿https://github.com/Arachni/arachni](https://github.com/Arachni/arachni) 
+- [﻿https://github.com/ysrc/xunfeng](https://github.com/ysrc/xunfeng) 
+- [﻿https://github.com/scipag/vulscan](https://github.com/scipag/vulscan) 
+- [﻿https://github.com/greenbone/openvas-scanner](https://github.com/greenbone/openvas-scanner) 
+- [﻿https://github.com/cve-search/cve-search](https://github.com/cve-search/cve-search) 
+- [﻿https://github.com/cve-search/cve-search](https://github.com/cve-search/cve-search) 
+- [﻿https://github.com/DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) 
+- [﻿https://github.com/anouarbensaad/vulnx](https://github.com/anouarbensaad/vulnx) 
+- [﻿https://github.com/Checkmarx/kics](https://github.com/Checkmarx/kics) 
+- [﻿https://github.com/0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework) 
+- [﻿https://github.com/wagiro/BurpBounty](https://github.com/wagiro/BurpBounty) 
  
 
 
