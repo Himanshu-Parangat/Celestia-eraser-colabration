@@ -7,14 +7,14 @@ list of feature sets to be finalized (pending for discussion)
 
 ❌ - rejected 🚧 - waiting 🕛 - takes time ⚠️ - case problem ✅ - finalize
 
-# Genral list
+# General list
 - Log Compression, encryption, Indexing, and Caching (performance, security)
 - Scalable applications can read multiple large logs, Parallel Processing 
 - Custom Log Parsing Rules, structure, organization 
 - Log Export and Sharing Options (mandatory) (CSV, JSON, etc.) 
 - auto highlighting and coloring, priority-based coloring
 - Intuitive User-Friendly Interface global search fzf Search Autocomplete Query Optimization, filter options, arrange, sort, Archiving, bookmark/watchlist, recently viewed, draggable card
-- unique uuid attached to every report
+- unique UUID attached to every report
 - Log Classification, Log Parsing, Color-Coded Logs, and marking based on the level of threats 
 - Alerts and Notifications, Notify Slack channel and socials 
 - Collaborative Features, multi-user, authentication, sync setting
@@ -32,6 +32,41 @@ list of feature sets to be finalized (pending for discussion)
 - Log Enrichment: Adding contextual information to log entries for better analysis. (using ai ❌)
 - Natural Language Processing: Allowing users to query logs using natural language. (using ai ❌)
 
+
+# Resourses
+
+
+- [﻿https://github.com/topics/log-analyzer?l=python](https://github.com/topics/log-analyzer?l=python) 
+
+- [﻿https://github.com/kitabisa/teler#features](https://github.com/kitabisa/teler#features) 
+- [﻿https://github.com/variar/klogg](https://github.com/variar/klogg) 
+- [﻿https://github.com/igorkasyanchuk/log_analyzer](https://github.com/igorkasyanchuk/log_analyzer) 
+- [﻿https://github.com/couchcoding/Logbert](https://github.com/couchcoding/Logbert) 
+- [﻿https://github.com/pbek/loganalyzer](https://github.com/pbek/loganalyzer) 
+- [﻿https://github.com/dogoncouch/siemstress](https://github.com/dogoncouch/siemstress) 
+- [﻿https://github.com/BalloonPlanet/apache-scalp](https://github.com/BalloonPlanet/apache-scalp) 
+- [﻿https://github.com/ForNeVeR/Indihiang](https://github.com/ForNeVeR/Indihiang) 
+- [﻿https://github.com/LazarenkoA/LogViewer](https://github.com/LazarenkoA/LogViewer) 
+- [﻿https://github.com/EmreOvunc/Log-Analysis](https://github.com/EmreOvunc/Log-Analysis) 
+- [﻿https://github.com/apptastic-software/fix-log-viewer](https://github.com/apptastic-software/fix-log-viewer) 
+- [﻿https://github.com/logpresso/community](https://github.com/logpresso/community) 
+- [﻿https://github.com/pekabon/LogGrok](https://github.com/pekabon/LogGrok) 
+- [﻿https://github.com/Farzin-Negahbani/Namira-LogAnalyzer](https://github.com/Farzin-Negahbani/Namira-LogAnalyzer) 
+- [﻿https://github.com/tofran/ts3-log-analyzer](https://github.com/tofran/ts3-log-analyzer) 
+- [﻿https://github.com/leibniz21c/mammoth](https://github.com/leibniz21c/mammoth) 
+- [﻿https://github.com/jaresz/WifiSpyBoard](https://github.com/jaresz/WifiSpyBoard) 
+- [﻿https://github.com/ahmadjd94/Bro-ID-Log-Analyzer](https://github.com/ahmadjd94/Bro-ID-Log-Analyzer) 
+- [﻿https://github.com/EmreOvunc/zIPam-Log-Analyzer](https://github.com/EmreOvunc/zIPam-Log-Analyzer) 
+- [﻿https://github.com/aran112000/nope-php](https://github.com/aran112000/nope-php) 
+- [﻿https://github.com/dogoncouch/siemstress](https://github.com/dogoncouch/siemstress) 
+- [﻿https://github.com/BalloonPlanet/apache-scalp](https://github.com/BalloonPlanet/apache-scalp) 
+- [﻿https://github.com/0x4D31/awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) 
+- [﻿https://github.com/EmreOvunc/zIPam-Log-Analyzer](https://github.com/EmreOvunc/zIPam-Log-Analyzer) 
+- [﻿https://github.com/tofran/ts3-log-analyzer](https://github.com/tofran/ts3-log-analyzer) 
+- [﻿https://github.com/Farzin-Negahbani/Namira-LogAnalyzer](https://github.com/Farzin-Negahbani/Namira-LogAnalyzer) 
+- [﻿https://github.com/EmreOvunc/Log-Analysis](https://github.com/EmreOvunc/Log-Analysis) 
+- [﻿https://github.com/BalloonPlanet/apache-scalp](https://github.com/BalloonPlanet/apache-scalp) 
+ 
 
 
 
