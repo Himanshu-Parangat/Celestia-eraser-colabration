@@ -38,11 +38,11 @@ list of feature sets to be finalized (pending for discussion)
 
 pending for review
 
-- [﻿https://github.com/topics/log-analyzer?l=python](https://github.com/topics/log-analyzer?l=python) 
-- [﻿https://github.com/kitabisa/teler#features](https://github.com/kitabisa/teler#features) 
-- [﻿https://github.com/variar/klogg](https://github.com/variar/klogg) 
-- [﻿https://github.com/igorkasyanchuk/log_analyzer](https://github.com/igorkasyanchuk/log_analyzer) 
-- [﻿https://github.com/couchcoding/Logbert](https://github.com/couchcoding/Logbert) 
+-  🚧[﻿https://github.com/topics/log-analyzer?l=python](https://github.com/topics/log-analyzer?l=python) 
+- 🚧 [﻿https://github.com/kitabisa/teler#features](https://github.com/kitabisa/teler#features) 
+- 🚧[﻿https://github.com/variar/klogg](https://github.com/variar/klogg) 
+- 🚧[﻿https://github.com/igorkasyanchuk/log_analyzer](https://github.com/igorkasyanchuk/log_analyzer) 
+- 🚧[﻿https://github.com/couchcoding/Logbert](https://github.com/couchcoding/Logbert) 
 - [﻿https://github.com/pbek/loganalyzer](https://github.com/pbek/loganalyzer) 
 - [﻿https://github.com/dogoncouch/siemstress](https://github.com/dogoncouch/siemstress) 
 - [﻿https://github.com/BalloonPlanet/apache-scalp](https://github.com/BalloonPlanet/apache-scalp) 
